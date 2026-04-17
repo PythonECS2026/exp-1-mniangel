@@ -2,13 +2,13 @@ AIM: Display a Personalized Greeting Message
 
 **Input:** name and age
 ```
-Enter Name: Dhanashree
-Enter Age: 33
+Enter Name: Angel
+Enter Age: 19
 ```
 
 **Output:**
 ```
 Welcome to Rizvi College of Engineering
-Hello, Dhanashree
-You are 33 years old.
+Hello, Angel
+You are 19 years old.
 ```
